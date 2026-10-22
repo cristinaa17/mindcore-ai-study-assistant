@@ -101,7 +101,7 @@ Proiectul poate fi extins prin:
 
 Acestea reprezintă direcții de dezvoltare, nu neapărat funcționalități deja implementate.
 
-## 📌 Stadiul proiectului
+## Stadiul proiectului
 
 MindCore este o aplicație funcțională, aflată în dezvoltare continuă. Repository-ul documentează implementarea actuală și evoluția proiectului.
 
