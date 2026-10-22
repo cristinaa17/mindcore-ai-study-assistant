@@ -63,8 +63,8 @@ proiectAI/
 ### 1. Clonarea repository-ului
 
 ```bash
-git clone https://github.com/cristinaa17/proiectAI.git
-cd proiectAI
+git clone https://github.com/cristinaa17/mindcore-ai-study-assistant.git
+cd mindcore-ai-study-assistant
 ```
 
 ### 2. Configurarea variabilelor de mediu
